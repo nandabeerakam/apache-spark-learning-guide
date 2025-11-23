@@ -1,3 +1,7 @@
+---
+title: Introduction
+nav_order: 1
+---
 # Introduction to Apache Spark
 
 Apache Spark is an open-source distributed computing system used for big data processing and analytics. It provides high-level APIs in Java, Scala, Python, and R, and supports a wide range of workloads including batch processing, streaming, machine learning, and graph processing.
