@@ -7,3 +7,4 @@ Apache Spark is an open-source distributed computing system used for big data pr
 - Speed: In-memory processing for fast computations.
 - Ease of Use: Simple APIs for data manipulation.
 - Versatility: Supports batch, streaming, SQL, machine learning, and graph processing.
+- InMemory Computation
